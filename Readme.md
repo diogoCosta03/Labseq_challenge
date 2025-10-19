@@ -193,11 +193,7 @@ The complete OpenAPI 3.0 specification is available at:
 - **JSON format**: http://localhost:8080/openapi
 - **YAML format**: http://localhost:8080/openapi?format=yaml
 
-You can import this specification into tools like:
-- Postman
-- Insomnia
-- Bruno
-- API testing frameworks
+
 
 ---
 
