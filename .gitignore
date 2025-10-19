@@ -1,0 +1,14 @@
+.idea/
+.vscode/
+node_modules/
+dist/
+target/
+*.log
+*.tmp
+*.swp
+*.bak
+*.class
+*.jar
+.env
+.DS_Store
+
